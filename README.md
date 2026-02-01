@@ -1,0 +1,2 @@
+# EventFunctionalBackpropagation
+Implementation of functional backpropagation for event processing
